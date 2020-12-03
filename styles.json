@@ -1,0 +1,93 @@
+{
+  "general": {
+    "chevronColor": "#003594",
+    "fontColor": "#003594",
+    "progress": {
+      "startColor": "#FF6A13",
+      "endColor": "#00ffffff"
+    },
+    "header": {
+      "bgColor": "#F2F3F4",
+      "fontColor": "#003594"
+    },
+    "button": {
+      "normal": {
+        "bgColor": "#003594",
+        "fontSize": "18",
+        "fontColor": "#FFFFFF"
+      },
+      "pressed": {
+        "bgColor": "#FFFFFF",
+        "fontSize": "18",
+        "fontColor": "#003594"
+      }
+    },
+    "bottomTab": {
+      "normal": {
+        "bgColor": "#FFFFFF",
+        "fontSize": "14",
+        "fontColor": "#BBAABC"
+      },
+      "pressed": {
+        "bgColor": "#FFFFFF",
+        "fontSize": "14",
+        "fontColor": "#0E388F"
+      }
+    },
+    "tab": {
+      "normal": {
+        "bgColor": "#FFFFFF",
+        "fontSize": "14",
+        "fontColor": "#003594"
+      },
+      "pressed": {
+        "bgColor": "#003594",
+        "fontSize": "14",
+        "fontColor": "#FFFFFF"
+      }
+    }
+  },
+  "drawer": {
+    "header": {
+      "bgColor": "#F2F3F4",
+      "fontSize": "14",
+      "fontColor": "#000000"
+    },
+    "body": {
+      "bgColor": "#35495A",
+      "fontSize": "17",
+      "fontColor": "#FFFFFF"
+    },
+    "footer": {
+      "bgColor": "#35495A",
+      "fontSize": "13",
+      "fontColor": "#FFFFFF"
+    }
+  },
+  "landing": {
+    "title": "@WorkApp",
+    "favorites": {
+      "enabled": {
+        "fontSize": "14",
+        "fontColor": "#FFFFFF"
+      },
+      "disabled": {
+        "fontSize": "14",
+        "fontColor": "#C4BFB6"
+      },
+      "label": {
+        "fontSize": "10",
+        "fontColor": "#C4BFB6"
+      }
+    },
+    "seeMore": {
+      "fontSize": "15",
+      "fontColor": "#2892C0"
+    }
+  },
+  "comfort": {
+    "defaultFontColor": "#003594",
+    "alteredFontColor": "#FFFFFF",
+    "buttonTitleColor": "#fdfdfd"
+  }
+}
