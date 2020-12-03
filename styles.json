@@ -45,7 +45,7 @@
         "fontSize": "14",
         "fontColor": "#FFFFFF"
       }
-    }
+    },
   },
   "drawer": {
     "header": {
@@ -89,5 +89,17 @@
     "defaultFontColor": "#003594",
     "alteredFontColor": "#FFFFFF",
     "buttonTitleColor": "#fdfdfd"
+  },
+  "questionnaire": {
+    "normal": {
+      "bgColor": "#FEFEFE",
+      "fontSize": "14",
+      "fontColor": "#212121"
+    },
+    "pressed": {
+      "bgColor": "#CE21EA",
+      "fontSize": "14",
+      "fontColor": "#0F278B"
+    }
   }
 }
