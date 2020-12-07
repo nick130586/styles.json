@@ -26,12 +26,12 @@
       "normal": {
         "bgColor": "#FFFFFF",
         "fontSize": "14",
-        "fontColor": "#BBAABC"
+        "fontColor": "#C1C1C1"
       },
       "pressed": {
         "bgColor": "#FFFFFF",
         "fontSize": "14",
-        "fontColor": "#0E388F"
+        "fontColor": "#BBAABC"
       }
     },
     "tab": {
