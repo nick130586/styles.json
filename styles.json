@@ -25,12 +25,12 @@
     "bottomTab": {
       "normal": {
         "bgColor": "#FFFFFF",
-        "fontSize": "14",
+        "fontSize": "12",
         "fontColor": "#C1C1C1"
       },
       "pressed": {
         "bgColor": "#FFFFFF",
-        "fontSize": "14",
+        "fontSize": "12",
         "fontColor": "#164BBF"
       }
     },
