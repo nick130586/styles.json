@@ -94,10 +94,10 @@
     "normal": {
       "bgColor": "#FEFEFE",
       "fontSize": "14",
-      "fontColor": "#212121"
+      "fontColor": "#444444"
     },
     "pressed": {
-      "bgColor": "#CE21EA",
+      "bgColor": "#E7EAF6",
       "fontSize": "14",
       "fontColor": "#0F278B"
     }
